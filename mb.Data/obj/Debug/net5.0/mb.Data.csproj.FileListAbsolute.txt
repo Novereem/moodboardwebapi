@@ -1,0 +1,15 @@
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\bin\Debug\net5.0\mb.Data.deps.json
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\bin\Debug\net5.0\mb.Data.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\bin\Debug\net5.0\ref\mb.Data.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\bin\Debug\net5.0\mb.Data.pdb
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\obj\Debug\net5.0\mb.Data.csproj.AssemblyReference.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\obj\Debug\net5.0\mb.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\obj\Debug\net5.0\mb.Data.AssemblyInfoInputs.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\obj\Debug\net5.0\mb.Data.AssemblyInfo.cs
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\obj\Debug\net5.0\mb.Data.csproj.CoreCompileInputs.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\obj\Debug\net5.0\mb.Data.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\obj\Debug\net5.0\ref\mb.Data.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\obj\Debug\net5.0\mb.Data.pdb
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\bin\Debug\net5.0\mb.Common.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\bin\Debug\net5.0\mb.Common.pdb
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Data\obj\Debug\net5.0\mb.Data.csproj.CopyComplete

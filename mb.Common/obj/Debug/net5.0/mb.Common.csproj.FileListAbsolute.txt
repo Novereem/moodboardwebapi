@@ -1,0 +1,12 @@
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Common\bin\Debug\net5.0\mb.Common.deps.json
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Common\bin\Debug\net5.0\mb.Common.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Common\bin\Debug\net5.0\ref\mb.Common.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Common\bin\Debug\net5.0\mb.Common.pdb
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Common\obj\Debug\net5.0\mb.Common.csproj.AssemblyReference.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Common\obj\Debug\net5.0\mb.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Common\obj\Debug\net5.0\mb.Common.AssemblyInfoInputs.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Common\obj\Debug\net5.0\mb.Common.AssemblyInfo.cs
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Common\obj\Debug\net5.0\mb.Common.csproj.CoreCompileInputs.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Common\obj\Debug\net5.0\mb.Common.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Common\obj\Debug\net5.0\ref\mb.Common.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Common\obj\Debug\net5.0\mb.Common.pdb
