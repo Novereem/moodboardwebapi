@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Api\\mb.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Api\\mb.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Api\\mb.Api.csproj",
+        "projectName": "mb.Api",
+        "projectPath": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Api\\mb.Api.csproj",
+        "packagesPath": "C:\\Users\\noove\\.nuget\\packages\\",
+        "outputPath": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\noove\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Common\\mb.Common.csproj": {
+                "projectPath": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Common\\mb.Common.csproj"
+              },
+              "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Data\\mb.Data.csproj": {
+                "projectPath": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Data\\mb.Data.csproj"
+              },
+              "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Logic\\mb.Logic.csproj": {
+                "projectPath": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Logic\\mb.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Common\\mb.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Common\\mb.Common.csproj",
+        "projectName": "mb.Common",
+        "projectPath": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Common\\mb.Common.csproj",
+        "packagesPath": "C:\\Users\\noove\\.nuget\\packages\\",
+        "outputPath": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\noove\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Data\\mb.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Data\\mb.Data.csproj",
+        "projectName": "mb.Data",
+        "projectPath": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Data\\mb.Data.csproj",
+        "packagesPath": "C:\\Users\\noove\\.nuget\\packages\\",
+        "outputPath": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\noove\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Common\\mb.Common.csproj": {
+                "projectPath": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Common\\mb.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Logic\\mb.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Logic\\mb.Logic.csproj",
+        "projectName": "mb.Logic",
+        "projectPath": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Logic\\mb.Logic.csproj",
+        "packagesPath": "C:\\Users\\noove\\.nuget\\packages\\",
+        "outputPath": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\noove\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Common\\mb.Common.csproj": {
+                "projectPath": "C:\\School\\Semester 4\\moodboardwebapi-master\\mb.Common\\mb.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

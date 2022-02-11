@@ -1,0 +1,84 @@
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\appsettings.json
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\mb.Api.exe
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\mb.Api.deps.json
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\mb.Api.runtimeconfig.json
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\mb.Api.runtimeconfig.dev.json
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\mb.Api.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\ref\mb.Api.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\mb.Api.pdb
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\MySqlConnector.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\mb.Common.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\mb.Data.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\mb.Common.pdb
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\mb.Data.pdb
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\mb.Api.csproj.AssemblyReference.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\mb.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\mb.Api.AssemblyInfoInputs.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\mb.Api.AssemblyInfo.cs
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\mb.Api.csproj.CoreCompileInputs.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\mb.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\mb.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\staticwebassets\mb.Api.StaticWebAssets.Manifest.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\staticwebassets\mb.Api.StaticWebAssets.xml
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\scopedcss\bundle\mb.Api.styles.css
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\mb.Api.RazorTargetAssemblyInfo.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\mb.Api.csproj.CopyComplete
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\mb.Api.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\ref\mb.Api.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\mb.Api.pdb
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\obj\Debug\net5.0\mb.Api.genruntimeconfig.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\mb.Logic.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Api\bin\Debug\net5.0\mb.Logic.pdb
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\appsettings.json
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\mb.Api.exe
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\mb.Api.deps.json
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\mb.Api.runtimeconfig.json
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\mb.Api.runtimeconfig.dev.json
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\mb.Api.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\ref\mb.Api.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\mb.Api.pdb
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\MySqlConnector.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\mb.Common.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\mb.Data.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\mb.Logic.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\mb.Common.pdb
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\mb.Data.pdb
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\bin\Debug\net5.0\mb.Logic.pdb
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\mb.Api.csprojAssemblyReference.cache
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\mb.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\mb.Api.AssemblyInfoInputs.cache
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\mb.Api.AssemblyInfo.cs
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\mb.Api.csproj.CoreCompileInputs.cache
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\mb.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\mb.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\staticwebassets\mb.Api.StaticWebAssets.Manifest.cache
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\staticwebassets\mb.Api.StaticWebAssets.xml
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\scopedcss\bundle\mb.Api.styles.css
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\mb.Api.RazorTargetAssemblyInfo.cache
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\mb.Api.csproj.CopyComplete
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\mb.Api.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\ref\mb.Api.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\mb.Api.pdb
+C:\School\Semester 4\moodboardwebapi-master\mb.Api\obj\Debug\net5.0\mb.Api.genruntimeconfig.cache

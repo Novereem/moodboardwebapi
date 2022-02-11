@@ -1,0 +1,31 @@
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\bin\Debug\net5.0\mb.Logic.deps.json
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\bin\Debug\net5.0\mb.Logic.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\bin\Debug\net5.0\ref\mb.Logic.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\bin\Debug\net5.0\mb.Logic.pdb
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\bin\Debug\net5.0\mb.Common.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\bin\Debug\net5.0\mb.Common.pdb
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\obj\Debug\net5.0\mb.Logic.csproj.AssemblyReference.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\obj\Debug\net5.0\mb.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\obj\Debug\net5.0\mb.Logic.AssemblyInfoInputs.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\obj\Debug\net5.0\mb.Logic.AssemblyInfo.cs
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\obj\Debug\net5.0\mb.Logic.csproj.CoreCompileInputs.cache
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\obj\Debug\net5.0\mb.Logic.csproj.CopyComplete
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\obj\Debug\net5.0\mb.Logic.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\obj\Debug\net5.0\ref\mb.Logic.dll
+C:\School\Semester 4\Pressure Cooker\Backend\moodboardapi\moodboardwebapi\moodboardwebapi\mb.Logic\obj\Debug\net5.0\mb.Logic.pdb
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\bin\Debug\net5.0\mb.Logic.deps.json
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\bin\Debug\net5.0\mb.Logic.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\bin\Debug\net5.0\ref\mb.Logic.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\bin\Debug\net5.0\mb.Logic.pdb
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\bin\Debug\net5.0\mb.Common.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\bin\Debug\net5.0\mb.Common.pdb
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\obj\Debug\net5.0\mb.Logic.csprojAssemblyReference.cache
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\obj\Debug\net5.0\mb.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\obj\Debug\net5.0\mb.Logic.AssemblyInfoInputs.cache
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\obj\Debug\net5.0\mb.Logic.AssemblyInfo.cs
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\obj\Debug\net5.0\mb.Logic.csproj.CoreCompileInputs.cache
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\obj\Debug\net5.0\mb.Logic.csproj.CopyComplete
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\obj\Debug\net5.0\mb.Logic.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\obj\Debug\net5.0\ref\mb.Logic.dll
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\obj\Debug\net5.0\mb.Logic.pdb
+C:\School\Semester 4\moodboardwebapi-master\mb.Logic\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
